@@ -1,0 +1,25 @@
+# Secrets
+.env
+*.token
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dữ liệu lớn: không commit, chỉ giữ README
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/README.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+./data
