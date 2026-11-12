@@ -1,0 +1,11 @@
+﻿file,format,rows,columns,size_bytes,important_fields,role
+Văn bản đã dán (1).txt,TXT,"3,879 dòng văn bản",Không áp dụng,34646,"Nhiệm vụ, phạm vi, yêu cầu kỹ thuật và bàn giao",Đặc tả yêu cầu dự án
+01_github_repos_chua_chuan_hoa_raw.csv,CSV,12000,21,5602790,"repo_id, primary_language, topics, created_at, collected_at, star_count, forks_count, open_issues_count, size_kb",Dữ liệu gốc trước chuẩn hóa; dùng làm mốc EDA do chưa có file Folder 01 đã impute
+scale_github_repos_binned.csv,CSV,12000,23,6527374,"4 biến số đã biến đổi; star-bin, fork-bin",File tên Scale; nội dung thực tế trùng hoàn toàn với file Z-Score
+zscore_github_repos_binned.csv,CSV,12000,23,6527374,"star_count, forks_count, open_issues_count, size_kb; star-bin, fork-bin",Dữ liệu Z-Score / StandardScaler
+minmax_github_repos_binned.csv,CSV,12000,23,6498883,"4 biến số trong [0,1]; star-bin, fork-bin",Dữ liệu Min-Max
+Bai03_Truc_quan.pdf,PDF,46 trang,Không áp dụng,1787031,8 nhóm phân loại trực quan; kiến trúc Matplotlib; plot(),Tài liệu học phần Bài 03
+Bai04_Cong_cu_TQ.pdf,PDF,69 trang,Không áp dụng,2574802,"Line, Area, Histogram, Bar, Pie, Box, Scatter, Waffle, Word cloud",Tài liệu học phần Bài 04
+Bai05_PT_Tham_do.pdf,PDF,38 trang,Không áp dụng,2124540,"Central tendency, Dispersion, Shape, Correlation, Gom nhóm, ANOVA",Tài liệu học phần Bài 05
+truc_quan_v2.ipynb,IPYNB,14 cells,8 Markdown + 6 code,884836,Bài 03 bản nháp; biểu đồ và markdown có sẵn,Notebook tham khảo phong cách và nội dung hiện có; sẽ thay bằng bản đã kiểm tra
+tham_do_v2.ipynb,IPYNB,22 cells,12 Markdown + 10 code,970440,Bài 05 bản nháp; cấu trúc EDA hiện có,Notebook tham khảo cách tổ chức code Bài 05

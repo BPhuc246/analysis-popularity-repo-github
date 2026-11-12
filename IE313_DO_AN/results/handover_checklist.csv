@@ -1,0 +1,10 @@
+﻿san_pham,trang_thai,kiem_thu,duong_dan,ghi_chu
+Bài 03 – truc_quan.ipynb,Hoàn thành,"Đã chạy từ đầu, 6/6 code cells không lỗi",truc_quan/truc_quan.ipynb,"8 nhóm theo PDF; có bảng so sánh biểu đồ thay thế, Matplotlib charts"
+Bài 04 – bieu_do.ipynb,Hoàn thành,"Đã chạy từ đầu, 9/9 code cells không lỗi",bieu_do/bieu_do.ipynb,"Matplotlib/Seaborn; Histogram, KDE, Boxplot, Bar, Countplot, Scatter, Pairplot, Heatmap"
+Bài 05 – tham_do.ipynb,Hoàn thành,"Đã chạy từ đầu, 11/11 code cells không lỗi",tham_do/tham_do.ipynb,"EDA, chất lượng dữ liệu, phân phối, tương quan, kiểm định, chuẩn hóa"
+Dashboard – dashboard.py,Hoàn thành source,Kiểm tra cú pháp; chưa chạy tương tác do môi trường không có Streamlit,dashboard.py,Cần pip install -r requirements.txt rồi streamlit run dashboard.py
+Báo cáo EDA – EDA_Report.ipynb,Hoàn thành,"Đã chạy từ đầu, 8/8 code cells không lỗi",EDA_Report.ipynb,"Báo cáo kết quả, kiểm định, giới hạn và so sánh chuẩn hóa"
+Bộ biểu đồ PNG,Hoàn thành,24 file; metadata 300 DPI,outputs/,"5 B03, 8 B04, 8 B05, 3 report"
+Bảng kết quả CSV,Hoàn thành,Đã xuất từ phân tích thực tế,results/,"Inventory, quality, stats, language, tests, correlations, normalization"
+Folder 01 – dữ liệu imputed,Không thể thực hiện,Không có tệp trong input được cung cấp,N/A,Raw còn missing; không tự tạo hoặc tuyên bố đã impute
+Đẩy code lên GitHub,Chưa thực hiện,Không có thao tác push/commit,N/A,Gói file sẵn tích hợp; cần thành viên nhóm commit/push

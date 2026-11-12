@@ -1,0 +1,4 @@
+﻿question,H0,H1,test,statistic,p_value,alpha,effect_size,effect_value,conclusion
+Age–Stars monotonic association,rho = 0,rho != 0,Spearman correlation,-0.11871470321080183,6.408603143004248e-39,0.05,rho,-0.11871470321080183,Bác bỏ H0
+Stars distribution across Top 5 languages,Phân phối thứ hạng Stars giống nhau giữa 5 nhóm,Có ít nhất một nhóm khác biệt,Kruskal-Wallis,31.80411218166295,2.0978011900730366e-06,0.05,epsilon-squared,0.003393642399812395,Bác bỏ H0
+Mean Stars across Top 5 languages (sensitivity) ,Trung bình Stars bằng nhau,Có ít nhất một trung bình khác,Welch ANOVA,2.07028556873169,0.0822321285955456,0.05,F statistic (no eta-squared calculated),,Chưa đủ bằng chứng bác bỏ H0
