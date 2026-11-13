@@ -1,0 +1,12 @@
+﻿check,count
+duplicate_full_rows,0
+duplicate_repo_id,0
+negative_star_count,0
+negative_forks_count,0
+negative_open_issues_count,0
+negative_size_kb,0
+description_missing,643
+license_missing,1657
+updated_after_collected,1043
+pushed_after_collected,225
+pushed_before_created,3

@@ -1,0 +1,5 @@
+﻿variable,lower_fence,upper_fence,outlier_count,outlier_pct
+star_count,-2562.0,7110.0,1413,11.774999999999999
+forks_count,-368.0,848.0,1432,11.933333333333334
+open_issues_count,-67.0,125.0,1373,11.441666666666666
+size_kb,-82960.0,144042.0,1509,12.575

@@ -1,0 +1,4 @@
+﻿question,H0,test,statistic,p_value,effect,effect_size,alpha,decision
+Age–Stars,Spearman rho = 0,Spearman,-0.11871470321080183,6.408603143004248e-39,rho,-0.11871470321080183,0.05,Bác bỏ H0
+Stars by Top 5 languages,Same Stars rank distribution in all groups,Kruskal-Wallis,31.80411218166295,2.0978011900730366e-06,epsilon-squared,0.003393642399812395,0.05,Bác bỏ H0
+Mean Stars by Top 5 languages (sensitivity),Equal group means,Welch ANOVA,2.07028556873169,0.0822321285955456,F statistic,,0.05,Chưa đủ bằng chứng bác bỏ H0

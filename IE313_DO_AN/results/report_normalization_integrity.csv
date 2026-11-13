@@ -1,0 +1,4 @@
+﻿file,rows,same_ID_set,same_order,duplicate_IDs
+Scale,12000,True,True,0
+Z-Score,12000,True,True,0
+Min-Max,12000,True,True,0

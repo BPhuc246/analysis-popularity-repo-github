@@ -1,0 +1,4 @@
+﻿file_method,rows,repo_id_unique,same_repo_id_set,same_order,extra_columns
+Scale,12000,12000,True,True,fork-bin; star-bin
+Z-Score,12000,12000,True,True,fork-bin; star-bin
+Min-Max,12000,12000,True,True,fork-bin; star-bin
